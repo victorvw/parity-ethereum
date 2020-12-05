@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/openethereum/parity-ethereum)
+
 ![Parity Ethereum](docs/logo-parity-ethereum.svg)
 
 <h2 align="center">The Fastest and most Advanced Ethereum Client.</h2>
